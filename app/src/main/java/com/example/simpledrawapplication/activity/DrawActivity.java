@@ -25,10 +25,6 @@ import java.util.ArrayList;
  * jhChoi - 201123
  * 그리기 화면입니다.
  * (그리기, 지우기, 저장, 호출)등이 가능합니다.
- * <p>
- * [화면 시나리오]
- * 1. 서버 API에게 과제제출자의 (이름, 나이)를 전달 후 결과를 처리합니다.
- * 2. Draw가 가능한 view를 생성 및 초기화 합니다.
  */
 public class DrawActivity extends AppCompatActivity {
     private DrawCanvas drawCanvas;
